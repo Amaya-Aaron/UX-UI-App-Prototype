@@ -13,3 +13,5 @@ Choose an app of your interest and redesign a high-fidelity prototype of it in F
 - Consistent colour palette
 - Icons and Navigation elements should share style
 - Uniform font and typography
+## Link to the Protoype :
+-https://www.figma.com/proto/1bRLeD3W3oZePgpmkMXrkX/Mexican-Prototype?node-id=686-98&scaling=scale-down&page-id=0%3A1&starting-point-node-id=77%3A209&t=ngwb3iCM9vzy19mS-1
